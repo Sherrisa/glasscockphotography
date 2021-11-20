@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #AC7A55;
+}
+
+.jumbotron {
+    background-image: url("../img/seniorClasson.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
