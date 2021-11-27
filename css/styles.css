@@ -1,12 +1,61 @@
+body {
+    color: #424C4E;
+}
+
+header h2 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.5em;
+}
+
+h2 {
+    font-family: 'Birthstone Bounce', cursive;
+    color: #AC7A55;
+    font-size: 2.5em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-family: 'Birthstone Bounce', cursive;
+    color: white;
+}
+
 .navbar {
     background-color: #AC7A55;
 }
 
+.nav-logo {
+    font-family: 'Birthstone Bounce', cursive;
+}
+
+.modal-title {
+    font-family: 'Birthstone Bounce', cursive;
+    font-size: 2em;
+    color: #AC7A55;
+}
+
+header h1 {
+    font-family: 'Birthstone Bounce', cursive;
+    font-size: 4em;
+}
+
 .jumbotron {
-    background-image: url("../img/seniorClasson.jpg");
-    height: 500px;
+    background-image: url("../img/seniorClassonChair.jpg");
+    height: 600px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    color: white;
+}
+
+footer {
+    background-color: #AC7A55;
+    padding: 20px, 0;
+    color: white;
+}
+
+footer a {
     color: white;
 }
